@@ -68,7 +68,7 @@ cv2.destroyAllWindows()
 
 ```
 ## Output
-![328469552-e62cacaf-0bb6-418e-bc4f-0d4fe2b3a1cd](https://github.com/Pravinrajj/GRAY-SCALE/assets/117917674/e1bae35e-9116-449e-8554-12ce105720e4)
+![image](https://github.com/Pravinrajj/GRAY-SCALE/assets/117917674/6403ef21-4cc8-48b9-ba2a-2cf018454bf1)
 
 ## Advantages
 ### Simplicity:
